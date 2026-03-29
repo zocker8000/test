@@ -2,14 +2,14 @@
 
 ## Quick Start
 ```bash
-cd /Users/dominique/Documents/Kickbase
+cd .
 python3 main.py --live
 ```
 
 ## Shareable Setup
 - Real secrets are not committed.
-- The repository includes placeholder files in [`.secrets/`](/Users/dominique/Documents/Kickbase/.secrets/) so the project can be shared safely.
-- Replace [`/Users/dominique/Documents/Kickbase/.secrets/openai_api_key.txt`](/Users/dominique/Documents/Kickbase/.secrets/openai_api_key.txt) with a real OpenAI API key on your machine if you want LLM explanations.
+- The repository includes placeholder files in [`.secrets/`](.secrets/) so the project can be shared safely.
+- Replace [`.secrets/openai_api_key.txt`](.secrets/openai_api_key.txt) with a real OpenAI API key on your machine if you want LLM explanations.
 - The placeholder value is `REPLACE_WITH_OPENAI_API_KEY`.
 - Keep any additional local credentials inside `.secrets/` and do not commit real values.
 
@@ -42,7 +42,7 @@ Rank all 1. Bundesliga players with Kickbase market value > 500000.
 
 ## Live sources
 - `python3 main.py --live`
-- Uses the configured real sources in [`config/feeds.yaml`](/Users/dominique/Documents/Kickbase/config/feeds.yaml)
+- Uses the configured real sources in [`config/feeds.yaml`](config/feeds.yaml)
 - Live runs print a pipeline status of `ready`, `degraded`, or `blocked`
 
 ## Caching
@@ -57,7 +57,7 @@ Rank all 1. Bundesliga players with Kickbase market value > 500000.
 - Transfermarkt market values fall back to `config/snapshots/transfermarkt_market_values_snapshot.json` when live loading fails
 
 ## Optional LLM
-- Enabled by default via [`config/llm.yaml`](/Users/dominique/Documents/Kickbase/config/llm.yaml)
+- Enabled by default via [`config/llm.yaml`](config/llm.yaml)
 - Store the API token in `.secrets/openai_api_key.txt`
 - The LLM only receives compact summaries of already computed rankings
 - The API call result is written to `out/llm_response.json` only when a real API key is present
