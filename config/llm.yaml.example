@@ -1,0 +1,8 @@
+llm:
+  enabled: true
+  api_key_file: .secrets/openai_api_key.txt
+  api_base_url: https://api.openai.com/v1/responses
+  model: gpt-4o-mini
+  max_players: 5
+  prompt_token_budget: 320
+  response_token_budget: 160
