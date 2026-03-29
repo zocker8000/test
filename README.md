@@ -6,6 +6,13 @@ cd /Users/dominique/Documents/Kickbase
 python3 main.py --live
 ```
 
+## Shareable Setup
+- Real secrets are not committed.
+- The repository includes placeholder files in [`.secrets/`](/Users/dominique/Documents/Kickbase/.secrets/) so the project can be shared safely.
+- Replace [`/Users/dominique/Documents/Kickbase/.secrets/openai_api_key.txt`](/Users/dominique/Documents/Kickbase/.secrets/openai_api_key.txt) with a real OpenAI API key on your machine if you want LLM explanations.
+- The placeholder value is `REPLACE_WITH_OPENAI_API_KEY`.
+- Keep any additional local credentials inside `.secrets/` and do not commit real values.
+
 ## Purpose
 Rank all 1. Bundesliga players with Kickbase market value > 500000.
 
