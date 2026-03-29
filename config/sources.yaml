@@ -1,0 +1,19 @@
+player_pool_sources:
+  - name: bundesliga_roster_source
+    enabled: true
+    priority: 1
+
+market_value_sources:
+  - name: kickbase_market_value_source
+    enabled: true
+    priority: 1
+
+news_sources:
+  - name: football_news_source
+    enabled: true
+    priority: 1
+
+stats_sources:
+  - name: player_stats_source
+    enabled: true
+    priority: 1

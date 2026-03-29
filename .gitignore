@@ -1,0 +1,8 @@
+.cache/
+.secrets/*
+!.secrets/README.md
+!.secrets/openai_api_key.txt
+.venv/
+out/
+__pycache__/
+*.pyc

@@ -1,0 +1,12 @@
+weights:
+  market_value_signal: 0.20
+  form_signal: 0.20
+  availability_signal: 0.25
+  news_signal: 0.10
+  news_recency_signal: 0.00
+  trend_signal: 0.15
+  value_opportunity_signal: 0.10
+
+thresholds:
+  minimum_market_value: 500000
+  minimum_confidence: 0.40

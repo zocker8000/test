@@ -1,0 +1,486 @@
+[
+  {
+    "player_id": "michael-olise",
+    "name": "Michael Olise",
+    "club": "Bayern Munich",
+    "position": "Right Winger",
+    "market_value": 130000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "jamal-musiala",
+    "name": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "position": "Attacking Midfield",
+    "market_value": 130000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "dayot-upamecano",
+    "name": "Dayot Upamecano",
+    "club": "Bayern Munich",
+    "position": "Centre-Back",
+    "market_value": 70000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "luis-diaz",
+    "name": "Luis Díaz",
+    "club": "Bayern Munich",
+    "position": "Left Winger",
+    "market_value": 70000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "harry-kane",
+    "name": "Harry Kane",
+    "club": "Bayern Munich",
+    "position": "Centre-Forward",
+    "market_value": 65000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "aleksandar-pavlovic",
+    "name": "Aleksandar Pavlovic",
+    "club": "Bayern Munich",
+    "position": "Defensive Midfield",
+    "market_value": 65000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "karim-adeyemi",
+    "name": "Karim Adeyemi",
+    "club": "Borussia Dortmund",
+    "position": "Right Winger",
+    "market_value": 60000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "lennart-karl",
+    "name": "Lennart Karl",
+    "club": "Bayern Munich",
+    "position": "Attacking Midfield",
+    "market_value": 60000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "nico-schlotterbeck",
+    "name": "Nico Schlotterbeck",
+    "club": "Borussia Dortmund",
+    "position": "Centre-Back",
+    "market_value": 55000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "serhou-guirassy",
+    "name": "Serhou Guirassy",
+    "club": "Borussia Dortmund",
+    "position": "Centre-Forward",
+    "market_value": 45000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "jeremy-arevalo",
+    "name": "Jeremy Arévalo",
+    "club": "VfB Stuttgart",
+    "position": "Centre-Forward",
+    "market_value": 7000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "issa-traore",
+    "name": "Issa Traoré",
+    "club": "Bayer 04 Leverkusen",
+    "position": "Centre-Back",
+    "market_value": 800000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "ayoube-amaimouni-echghouyab",
+    "name": "Ayoube Amaimouni-Echghouyab",
+    "club": "Eintracht Frankfurt",
+    "position": "Right Winger",
+    "market_value": 2000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "noah-darvich",
+    "name": "Noah Darvich",
+    "club": "VfB Stuttgart",
+    "position": "Attacking Midfield",
+    "market_value": 2000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "justin-diehl",
+    "name": "Justin Diehl",
+    "club": "VfB Stuttgart",
+    "position": "Left Winger",
+    "market_value": 1800000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "florian-hellstern",
+    "name": "Florian Hellstern",
+    "club": "VfB Stuttgart",
+    "position": "Goalkeeper",
+    "market_value": 1800000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "mirza-catovic",
+    "name": "Mirza Catovic",
+    "club": "VfB Stuttgart",
+    "position": "Defensive Midfield",
+    "market_value": 1500000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "deniz-zeitler",
+    "name": "Deniz Zeitler",
+    "club": "TSG 1899 Hoffenheim",
+    "position": "Centre-Forward",
+    "market_value": 1500000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "lukas-petersson",
+    "name": "Lúkas Petersson",
+    "club": "TSG 1899 Hoffenheim",
+    "position": "Goalkeeper",
+    "market_value": 600000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "david-santos-daiber",
+    "name": "David Santos Daiber",
+    "club": "Bayern Munich",
+    "position": "Defensive Midfield",
+    "market_value": 1000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "montrell-culbreath",
+    "name": "Montrell Culbreath",
+    "club": "Bayer 04 Leverkusen",
+    "position": "Right Winger",
+    "market_value": 1000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "yan-diomande",
+    "name": "Yan Diomande",
+    "club": null,
+    "position": "Left Winger",
+    "market_value": 20000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "said-el-mala",
+    "name": "Said El Mala",
+    "club": null,
+    "position": "Left Winger",
+    "market_value": 18000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "silas",
+    "name": "Silas",
+    "club": null,
+    "position": "Right Winger",
+    "market_value": 4000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "nathaniel-brown",
+    "name": "Nathaniel Brown",
+    "club": null,
+    "position": "Left-Back",
+    "market_value": 30000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "julian-brandt",
+    "name": "Julian Brandt",
+    "club": null,
+    "position": "Attacking Midfield",
+    "market_value": 25000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "johan-manzambi",
+    "name": "Johan Manzambi",
+    "club": null,
+    "position": "Central Midfield",
+    "market_value": 15000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "assan-ouedraogo",
+    "name": "Assan Ouédraogo",
+    "club": null,
+    "position": "Central Midfield",
+    "market_value": 10000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "karim-coulibaly",
+    "name": "Karim Coulibaly",
+    "club": null,
+    "position": "Centre-Back",
+    "market_value": 8000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "fabio-silva",
+    "name": "Fábio Silva",
+    "club": null,
+    "position": "Centre-Forward",
+    "market_value": 28000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "julien-duranville",
+    "name": "Julien Duranville",
+    "club": null,
+    "position": "Left Winger",
+    "market_value": 8500000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "emre-can",
+    "name": "Emre Can",
+    "club": null,
+    "position": "Centre-Back",
+    "market_value": 7000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "cole-campbell",
+    "name": "Cole Campbell",
+    "club": null,
+    "position": "Right Winger",
+    "market_value": 5000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "phillip-tietz",
+    "name": "Phillip Tietz",
+    "club": null,
+    "position": "Centre-Forward",
+    "market_value": 5000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "fisnik-asllani",
+    "name": "Fisnik Asllani",
+    "club": null,
+    "position": "Centre-Forward",
+    "market_value": 18000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "noah-atubolu",
+    "name": "Noah Atubolu",
+    "club": null,
+    "position": "Goalkeeper",
+    "market_value": 18000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "alejandro-grimaldo",
+    "name": "Alejandro Grimaldo",
+    "club": null,
+    "position": "Left-Back",
+    "market_value": 30000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "jobe-bellingham",
+    "name": "Jobe Bellingham",
+    "club": null,
+    "position": "Central Midfield",
+    "market_value": 30000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "luka-vuskovic",
+    "name": "Luka Vuskovic",
+    "club": null,
+    "position": "Centre-Back",
+    "market_value": 40000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "can-uzun",
+    "name": "Can Uzun",
+    "club": null,
+    "position": "Attacking Midfield",
+    "market_value": 45000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "malik-tillman",
+    "name": "Malik Tillman",
+    "club": null,
+    "position": "Attacking Midfield",
+    "market_value": 35000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "jarell-quansah",
+    "name": "Jarell Quansah",
+    "club": null,
+    "position": "Centre-Back",
+    "market_value": 35000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "felix-nmecha",
+    "name": "Felix Nmecha",
+    "club": null,
+    "position": "Centre-Forward",
+    "market_value": 20000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  },
+  {
+    "player_id": "elye-wahi",
+    "name": "Elye Wahi",
+    "club": null,
+    "position": "Centre-Forward",
+    "market_value": 18000000,
+    "confidence": 1.0,
+    "signals": {
+      "market_value_signal": 1.0
+    }
+  }
+]

@@ -1,0 +1,2 @@
+"""Kickbase ranking bot package."""
+

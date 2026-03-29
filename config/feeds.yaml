@@ -1,0 +1,13 @@
+sources:
+  - type: bundesliga_roster
+    url: https://www.bundesliga.com/en/bundesliga/player
+    enabled: true
+    priority: 1
+  - type: transfermarkt_market_values
+    url: https://www.transfermarkt.com/bundesliga/marktwertaenderungen/wettbewerb/L1/saison_id/2025
+    enabled: true
+    priority: 2
+  - type: bundesliga_stats
+    url: https://www.bundesliga.com/en/bundesliga/stats/players/goals/cards
+    enabled: true
+    priority: 3
